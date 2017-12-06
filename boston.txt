@@ -1,0 +1,6 @@
+Boston, MA
+http://www.openstreetmap.org/relation/2315704
+
+I chose to wrangle Boston's street map data because I recently moved to New England and I would like to learn more about the area around me.
+
+Boston is the largest city in New England, and is home to some rich US history as well as some popular sports franchies (Patriots, Celtics, Red Sox, Bruins). Its people are proud and feisty, and it snows a lot more than I'm used to -- which I love!

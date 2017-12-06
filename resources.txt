@@ -1,0 +1,6 @@
+Resources
+
+For this project I utilized the Udacity course materials as well as the github link below from the sample project:
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+
+For any questions I had on SQLite or Python I went to google and most of the time used StackOverflow (if I forgot what function I was looking for).
